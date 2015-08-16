@@ -1,4 +1,4 @@
 personal-blog
 ---------
 
-[gothwski.github.io](http://syaningv.com/vida/)
+built w/ jekyll, theme by [syaning](https://github.com/syaning).
