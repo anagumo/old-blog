@@ -1,7 +1,7 @@
 ---
 layout:    page
 title:     escucha
-permalink: /listen/
+permalink: /alaska/
 ---
 
 
